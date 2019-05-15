@@ -1,0 +1,10 @@
+Taiwan Democratic Self
+Output:
+Input text: 
+“Noting that resolving the Taiwan issue to achieve reunification is the shared aspiration of all Chinese, the message hailed the unique advantage of the league, as a political party consisting of Taiwanese living in the mainland, in maintaining broad connections with Taiwanese compatriots both domestic and overseas.”
+com:  [[0.78697846 0.21302154]]
+rev:  [[0.82454531 0.17545469]]
+tai:  [[0.00789879 0.99210121]]
+com:  False
+rev:  False
+tai:  True
